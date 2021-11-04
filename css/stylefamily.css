@@ -1,0 +1,20 @@
+
+.navbar-dark{
+  background: #3e43ab;
+  padding: 50spx;
+}
+.row-header {
+  margin: 0px auto;
+  padding: 0px auto;
+
+
+}
+.jumbotron{
+  background: #16c742;
+  padding: 50px;
+}
+
+body{
+  padding: 50px 0px 0px 0px;
+  z-index: 0;
+}
